@@ -4,3 +4,4 @@ git config --global user.email "dns.lector@ukr.net"
 UI Hroduct Srint
 Розробка інтерфейсу коритувача, а технічним завданням у Figma 
 https://www.figma.com/design/nFZLWZ27nveAV1fRodzRX2/BAZA-R_Rozetka?node-id=667-3820&t=gWfgbNFkd4BvjfyO-0
+
