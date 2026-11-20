@@ -97,7 +97,9 @@ body {
     margin: 30px 0 0 55px;
     height: 627px;
     width: 325px;
-
+}
+.catalog-hover{
+    background-color: #dadada;
 }
 .info{
     display: flex;
@@ -109,4 +111,31 @@ body {
     width: 325px;
     height: 197px;
     margin: 15px 0 0 54px;
+}
+.welcome {
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    width: 181px;
+    height:23px;
+    margin: -165px 0 0 120px;
+}
+.left-arrow  {
+    display: flex;
+    width: 9px;
+    height: 34px;
+    margin: -635px 0 0 415px;
+    position: absolute;
+}
+.img {
+    display:block;
+    width:90%;
+    margin: -720px 0 0 410px;
+}
+.right-arrow {
+    display: flex;
+    width: 9px;
+    height: 34px;
+    margin: -400px 0 0 2100px;
+    position: absolute;
 }
