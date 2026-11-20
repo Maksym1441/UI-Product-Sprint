@@ -56,7 +56,6 @@ body {
 .text { 
     width: 66px;
     height: 10px;
-    margin: -70px 0 0 40px;
 }
 .search {
     display: flex;
@@ -91,4 +90,23 @@ body {
     width:33px;
     height: 34px;
     margin: -33px 0 0  1060px;
+}
+.catalog {
+    border: 1px solid #dadada;
+    border-radius: 12px;
+    margin: 30px 0 0 55px;
+    height: 627px;
+    width: 325px;
+
+}
+.info{
+    display: flex;
+    width:325px;
+    height: 36px;
+    margin: 15px 0 0 54px;
+}
+.signing {
+    width: 325px;
+    height: 197px;
+    margin: 15px 0 0 54px;
 }
