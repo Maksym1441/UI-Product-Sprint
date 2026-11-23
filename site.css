@@ -139,3 +139,29 @@ body {
     margin: -400px 0 0 2100px;
     position: absolute;
 }
+.suggestions {
+    width: 90%;
+    display: flex;
+    margin: -30px 0 0 400px;
+
+}
+.offers {
+    width:90%;
+    margin: -30px 0 0 400px;
+}
+.sign {
+    display: flex;
+    margin: -530px 0 0 100px;
+}
+.row9 {
+    display: flex;
+    margin: 10px 0 0 90px;
+}
+.download {
+    display: flex;
+    margin: 55px 0 0 53px;
+}
+.society {
+    display: flex;
+    margin: 25px 0 0 53px;
+}
